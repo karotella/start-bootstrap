@@ -5,7 +5,7 @@
 One page, fully responsive portfolio website created from scratch from graphic creation. The main purpose was to not use ready-made frontend frameworks like Bootstrap, etc.
 
 ## Preview
-[View Live Preview]()
+[View Live Preview](https://karotella.github.io/start-bootstrap/)
 
 ## Technologies
 * HTML5
@@ -20,4 +20,4 @@ Project is: _finished_
 Project based on Start Bootstrap Theme.
 
 ## Contact
-Created by Ewa Światczyńska (https://www.linkedin.com/in/ewaswiatczynska/) - feel free to contact me!
+Created by [Ewa Światczyńska](https://www.linkedin.com/in/ewaswiatczynska/) - feel free to contact me!
